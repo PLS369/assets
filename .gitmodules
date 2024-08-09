@@ -1,0 +1,3 @@
+[submodule "blockchains/pulsechain/assets"]
+	path = blockchains/pulsechain/assets
+	url = https://github.com/PLS369/pls-assets
